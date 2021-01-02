@@ -1,7 +1,9 @@
-# Anomaly / Outlier Detection
-This is a simple example of Introduction to Anomaly Detection.
+# Anomaly/Outlier Detection
+"Anomaly detection, also called outlier detection, is the identification of unexpected events, observations, or items that differ significantly from the norm." 
 
-## Genarate Data with Faker
+This is a simple example of Introduction to Anomaly Detection with a small dataset
+
+## Genarate Dataset with Faker
 Faker is a library through which we can generate fake data.
 for more information click on the [this link](https://faker.readthedocs.io/en/master/)
 
